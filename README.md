@@ -12,7 +12,9 @@ A powerful, autonomous document processing agent that can summarize, extract ins
 ![demo](https://github.com/Tanmay1112004/codespaces-blank/blob/main/screenshots/Screenshot%202025-11-20%20181655.png)
 
 ![demo](https://github.com/Tanmay1112004/codespaces-blank/blob/main/screenshots/Screenshot%202025-11-20%20181710.png)
+
 ![demo](https://github.com/Tanmay1112004/codespaces-blank/blob/main/screenshots/Screenshot%202025-11-20%20182038.png)
+
 ![demo](https://github.com/Tanmay1112004/codespaces-blank/blob/main/screenshots/Screenshot%202025-11-20%20182115.png)
 
 ## 🌟 Features
