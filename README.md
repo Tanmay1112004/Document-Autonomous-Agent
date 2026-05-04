@@ -159,8 +159,8 @@ GEMINI_API_KEY = "your_gemini_api_key_here"
 ```
 
 ### Model Settings
-- Default model: `gemini-1.5-flash`
-- Alternative: `gemini-1.5-pro` (change in `DocumentAnalyzer` class)
+- Default model: `gemini-2.5-flash`
+- Alternative: `gemini-2.5-pro` (change in `DocumentAnalyzer` class)
 
 ### Processing Limits
 - Maximum file size: 200MB per file
