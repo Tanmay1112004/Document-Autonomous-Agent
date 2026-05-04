@@ -2,7 +2,6 @@
 
 A powerful, autonomous document processing agent that can summarize, extract insights, and create a comprehensive knowledge base from your documents. Think "ChatGPT for your documents" but fully autonomous and continuously learning.
 
-![Document Agent](https://img.shields.io/badge/Document-Agent-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-red)
 ![Gemini AI](https://img.shields.io/badge/Gemini-AI-orange)
 
