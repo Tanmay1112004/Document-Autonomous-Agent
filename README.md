@@ -48,7 +48,7 @@ A powerful, autonomous document processing agent that can summarize, extract ins
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/Tanmay1112004/Document-Autonomous-Agent
 cd document-autonomous-agent
 ```
 
